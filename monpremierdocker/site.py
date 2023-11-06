@@ -5,7 +5,7 @@ import socket
 
 app = Flask(__name__)
 hostname = socket.gethostname()
-message = "" # A compléter, faites vous plaisir 
+message = "aerazeraeraeraer" # A compléter, faites vous plaisir 
 
 @app.route("/")
 def main():
